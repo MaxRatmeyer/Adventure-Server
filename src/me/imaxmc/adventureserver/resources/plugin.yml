@@ -1,0 +1,13 @@
+name: AdventureServer
+version: 1.0
+main: me.imaxmc.adventureserver.AdventureServer
+description: Automated Adventure Maps System for Max's server.
+author: iMaxMC
+
+commands:
+    startmap:
+       usage: /<command>
+       description: Start playing a map.
+    stopmap:
+       usage: /<command>
+       description: Stop playing a map.
